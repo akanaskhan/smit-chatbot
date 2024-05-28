@@ -11,7 +11,7 @@ userInput.scrollTop = userInput.scrollHeight;
 function respond() {
   let userInput = document.getElementById("userText").value.toLowerCase();
   document.getElementById("ali").innerHTML +=
-    '<div class = "divv"> <h2>' + document.getElementById("userText").value + '</h2></div>';
+    '<div class = "li-div"><h2>' + document.getElementById("userText").value + '</h2></div>';
   if (
     userInput.toLowerCase() === "hi" ||
     userInput.toLowerCase() === "hello" ||
