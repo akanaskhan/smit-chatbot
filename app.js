@@ -77,7 +77,7 @@ function respond() {
     userInput.toLowerCase() === "who is molana basheer farooqi"
   ) {
     document.getElementById("userText").value = "";
-    document.getElementById("userText").placeholder = "Type...";
+    document.getElementById("userText").placeholder = "Typing...";
     setTimeout(function () {
       document.getElementById("ali").innerHTML +=
         "<li>" +
