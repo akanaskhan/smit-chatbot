@@ -423,6 +423,8 @@ ol > li {
 
   .btn-education {
     font-size: 19px;
+    box-shadow: #0065b2 1px 2px 10px !important;
+
   }
   .btn-molana {
     background-color: #0065b2;
@@ -432,6 +434,8 @@ ol > li {
     margin-top: 3px;
     letter-spacing: -0.1 !important;
     font-size: 19px;
+    box-shadow: #0065b2 1px 2px 10px !important;
+
   }
   .btn-blood-bank {
     background-color: #53ac38;
@@ -441,6 +445,8 @@ ol > li {
     margin-top: 3px;
     letter-spacing: -0.1 !important;
     font-size: 19px;
+  box-shadow: #53ac38 1px 2px 10px !important;
+
   }
   .btn-medical {
     background-color: #0065b2;
@@ -450,6 +456,8 @@ ol > li {
     margin-top: 3px;
     letter-spacing: -0.1 !important;
     font-size: 19px;
+    box-shadow: #0065b2 1px 2px 10px !important;
+
   }
 
   .btn-food {
@@ -460,6 +468,8 @@ ol > li {
     margin-top: 3px;
     letter-spacing: -0.1 !important;
     font-size: 19px;
+  box-shadow: #53ac38 1px 2px 10px !important;
+
   }
   p {
     background-color: #d8d8d88a !important;
